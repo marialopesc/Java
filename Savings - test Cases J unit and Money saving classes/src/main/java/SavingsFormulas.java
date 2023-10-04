@@ -1,9 +1,4 @@
-/*
-CS 342 - Fall 2023
-Maria Bezerra
-UIN: 676493398
-mbeze2MavenJava.zip`
- */
+
 
 import java.lang.Math;
 
